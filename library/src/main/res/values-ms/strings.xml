@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Padam</string>
+    <string name="ny_i18n_action_edit">Edit</string>
+    <string name="ny_i18n_action_export">Eksport</string>
+    <string name="ny_i18n_action_import">Import</string>
+    <string name="ny_i18n_action_save">Simpan</string>
+    <string name="ny_i18n_action_settings">Tetapan</string>
+    <string name="ny_i18n_action_today">Hari ini</string>
+</resources>

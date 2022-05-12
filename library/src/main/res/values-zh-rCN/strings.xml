@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">删除</string>
+    <string name="ny_i18n_action_edit">编辑</string>
+    <string name="ny_i18n_action_export">导出</string>
+    <string name="ny_i18n_action_import">导入</string>
+    <string name="ny_i18n_action_save">保存</string>
+    <string name="ny_i18n_action_settings">设置</string>
+    <string name="ny_i18n_action_today">今天</string>
+</resources>

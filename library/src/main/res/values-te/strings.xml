@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">తొలగించు</string>
+    <string name="ny_i18n_action_export">ఎగుమతి చేయి</string>
+    <string name="ny_i18n_action_import">దిగుమతి చేయి</string>
+    <string name="ny_i18n_action_save">సేవ్ చేయి</string>
+    <string name="ny_i18n_action_settings">సెట్టింగ్‌లు</string>
+    <string name="ny_i18n_action_today">ఈ రోజు</string>
+</resources>

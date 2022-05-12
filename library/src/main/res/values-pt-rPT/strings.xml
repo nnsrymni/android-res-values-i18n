@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Eliminar</string>
+    <string name="ny_i18n_action_save">Guardar</string>
+    <string name="ny_i18n_action_settings">Definições</string>
+</resources>

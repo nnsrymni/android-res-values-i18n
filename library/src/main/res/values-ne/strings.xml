@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">मेटाउनुहोस्</string>
+    <string name="ny_i18n_action_edit">सम्पादन गर्नुहोस्</string>
+    <string name="ny_i18n_action_save">बचत गर्नुहोस्</string>
+    <string name="ny_i18n_action_settings">सेटिङ्हरू</string>
+    <string name="ny_i18n_action_today">आज</string>
+</resources>

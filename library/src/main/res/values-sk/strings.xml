@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Odstrániť</string>
+    <string name="ny_i18n_action_edit">Upraviť</string>
+    <string name="ny_i18n_action_export">Exportovať</string>
+    <string name="ny_i18n_action_import">Importovať</string>
+    <string name="ny_i18n_action_save">Uložiť</string>
+    <string name="ny_i18n_action_settings">Nastavenia</string>
+    <string name="ny_i18n_action_today">Dnes</string>
+</resources>

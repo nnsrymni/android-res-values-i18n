@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">ሰርዝ</string>
+    <string name="ny_i18n_action_edit">አርትዕ</string>
+    <string name="ny_i18n_action_save">አስቀምጥ</string>
+    <string name="ny_i18n_action_settings">ቅንብሮች</string>
+    <string name="ny_i18n_action_today">ዛሬ</string>
+</resources>

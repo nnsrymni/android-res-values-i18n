@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Fshi</string>
+    <string name="ny_i18n_action_edit">Redakto</string>
+    <string name="ny_i18n_action_export">Eksporto</string>
+    <string name="ny_i18n_action_import">Importo</string>
+    <string name="ny_i18n_action_save">Ruaj</string>
+    <string name="ny_i18n_action_today">Sot</string>
+</resources>

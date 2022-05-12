@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">હટાવો</string>
+    <string name="ny_i18n_action_export">નિકાસ કરો</string>
+    <string name="ny_i18n_action_import">આયાત કરો</string>
+    <string name="ny_i18n_action_save">સાચવો</string>
+    <string name="ny_i18n_action_settings">સેટિંગ્સ</string>
+    <string name="ny_i18n_action_today">આજે</string>
+</resources>

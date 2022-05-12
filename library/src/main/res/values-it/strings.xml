@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Elimina</string>
+    <string name="ny_i18n_action_edit">Modifica</string>
+    <string name="ny_i18n_action_export">Esporta</string>
+    <string name="ny_i18n_action_import">Importa</string>
+    <string name="ny_i18n_action_save">Salva</string>
+    <string name="ny_i18n_action_settings">Impostazioni</string>
+    <string name="ny_i18n_action_today">Oggi</string>
+</resources>

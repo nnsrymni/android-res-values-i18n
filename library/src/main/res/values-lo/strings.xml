@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">ລຶບ</string>
+    <string name="ny_i18n_action_edit">ແກ້ໄຂ</string>
+    <string name="ny_i18n_action_save">ບັນທຶກ</string>
+    <string name="ny_i18n_action_settings">ການຕັ້ງຄ່າ</string>
+    <string name="ny_i18n_action_today">ມື້ນີ້</string>
+</resources>

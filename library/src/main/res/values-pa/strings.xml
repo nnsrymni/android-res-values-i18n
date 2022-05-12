@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">ਮਿਟਾਓ</string>
+    <string name="ny_i18n_action_edit">ਸੰਪਾਦਨ ਕਰੋ</string>
+    <string name="ny_i18n_action_save">ਸੁਰੱਖਿਅਤ ਕਰੋ</string>
+    <string name="ny_i18n_action_settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="ny_i18n_action_today">ਅੱਜ</string>
+</resources>

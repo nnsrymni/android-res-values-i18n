@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">حذف</string>
+    <string name="ny_i18n_action_export">تصدير</string>
+    <string name="ny_i18n_action_import">استيراد</string>
+    <string name="ny_i18n_action_save">حفظ</string>
+    <string name="ny_i18n_action_settings">الإعدادات</string>
+    <string name="ny_i18n_action_today">اليوم</string>
+</resources>

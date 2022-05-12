@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Xóa</string>
+    <string name="ny_i18n_action_export">Xuất</string>
+    <string name="ny_i18n_action_import">Nhập</string>
+    <string name="ny_i18n_action_save">Lưu</string>
+    <string name="ny_i18n_action_settings">Cài đặt</string>
+    <string name="ny_i18n_action_today">Hôm nay</string>
+</resources>

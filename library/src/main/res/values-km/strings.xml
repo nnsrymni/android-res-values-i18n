@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">លុប</string>
+    <string name="ny_i18n_action_edit">កែសម្រួល</string>
+    <string name="ny_i18n_action_export">នាំចេញ</string>
+    <string name="ny_i18n_action_import">នាំចូល</string>
+    <string name="ny_i18n_action_save">រក្សាទុក</string>
+    <string name="ny_i18n_action_settings">ការកំណត់</string>
+    <string name="ny_i18n_action_today">ថ្ងៃនេះ</string>
+</resources>

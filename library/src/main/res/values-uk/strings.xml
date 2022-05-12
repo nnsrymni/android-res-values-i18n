@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Видалити</string>
+    <string name="ny_i18n_action_edit">Редагувати</string>
+    <string name="ny_i18n_action_export">Експортувати</string>
+    <string name="ny_i18n_action_import">Імпортувати</string>
+    <string name="ny_i18n_action_save">Зберегти</string>
+    <string name="ny_i18n_action_today">Сьогодні</string>
+</resources>

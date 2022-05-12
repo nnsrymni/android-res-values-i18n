@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Dileu</string>
+    <string name="ny_i18n_action_edit">Golygu</string>
+    <string name="ny_i18n_action_save">Cadw</string>
+    <string name="ny_i18n_action_settings">Gosodiadau</string>
+</resources>

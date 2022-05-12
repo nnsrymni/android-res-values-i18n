@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Ezabatu</string>
+    <string name="ny_i18n_action_edit">Editatu</string>
+    <string name="ny_i18n_action_export">Esportatu</string>
+    <string name="ny_i18n_action_import">Inportatu</string>
+    <string name="ny_i18n_action_save">Gorde</string>
+    <string name="ny_i18n_action_settings">Ezarpenak</string>
+    <string name="ny_i18n_action_today">Gaur</string>
+</resources>

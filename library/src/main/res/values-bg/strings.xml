@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Изтриване</string>
+    <string name="ny_i18n_action_edit">Редактиране</string>
+    <string name="ny_i18n_action_export">Експортиране</string>
+    <string name="ny_i18n_action_import">Импортиране</string>
+    <string name="ny_i18n_action_save">Запиши</string>
+    <string name="ny_i18n_action_settings">Настройки</string>
+    <string name="ny_i18n_action_today">Днес</string>
+</resources>

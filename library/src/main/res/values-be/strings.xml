@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Выдаліць</string>
+    <string name="ny_i18n_action_edit">Рэдагаваць</string>
+    <string name="ny_i18n_action_save">Захаваць</string>
+    <string name="ny_i18n_action_settings">Налады</string>
+    <string name="ny_i18n_action_today">Сёння</string>
+</resources>

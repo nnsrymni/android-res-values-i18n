@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Sil</string>
+    <string name="ny_i18n_action_edit">Düzenle</string>
+    <string name="ny_i18n_action_export">Dışarı aktar</string>
+    <string name="ny_i18n_action_import">İçeri aktar</string>
+    <string name="ny_i18n_action_save">Kaydet</string>
+    <string name="ny_i18n_action_settings">Ayarlar</string>
+    <string name="ny_i18n_action_today">Bugün</string>
+</resources>

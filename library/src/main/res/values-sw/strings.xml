@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Futa</string>
+    <string name="ny_i18n_action_edit">Badilisha</string>
+    <string name="ny_i18n_action_save">Hifadhi</string>
+    <string name="ny_i18n_action_settings">Mipangilio</string>
+    <string name="ny_i18n_action_today">Leo</string>
+</resources>

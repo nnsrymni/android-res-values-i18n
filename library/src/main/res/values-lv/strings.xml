@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Dzēst</string>
+    <string name="ny_i18n_action_edit">Rediģēt</string>
+    <string name="ny_i18n_action_export">Eksportēt</string>
+    <string name="ny_i18n_action_import">Importēt</string>
+    <string name="ny_i18n_action_save">Saglabāt</string>
+    <string name="ny_i18n_action_settings">Iestatījumi</string>
+    <string name="ny_i18n_action_today">Šodien</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ny_i18n_action_delete">Törlés</string>
+    <string name="ny_i18n_action_edit">Szerkesztés</string>
+    <string name="ny_i18n_action_export">Exportálás</string>
+    <string name="ny_i18n_action_import">Importálás</string>
+    <string name="ny_i18n_action_save">Mentés</string>
+    <string name="ny_i18n_action_settings">Beállítások</string>
+    <string name="ny_i18n_action_today">Ma</string>
+</resources>
