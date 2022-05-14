@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_edit">Modifier</string>
     <string name="ny_i18n_action_export">Exporter</string>
     <string name="ny_i18n_action_import">Importer</string>
+    <string name="ny_i18n_action_next">Suivant</string>
     <string name="ny_i18n_action_save">Enregistrer</string>
     <string name="ny_i18n_action_settings">Paramètres</string>
     <string name="ny_i18n_action_today">Aujourd\,hui</string>

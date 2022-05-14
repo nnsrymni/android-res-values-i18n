@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_edit">Rediger</string>
     <string name="ny_i18n_action_export">Eksportér</string>
     <string name="ny_i18n_action_import">Importér</string>
+    <string name="ny_i18n_action_next">Næste</string>
     <string name="ny_i18n_action_save">Gem</string>
     <string name="ny_i18n_action_settings">Indstillinger</string>
     <string name="ny_i18n_action_today">I dag</string>

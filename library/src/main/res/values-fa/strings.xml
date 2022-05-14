@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_edit">ویرایش</string>
     <string name="ny_i18n_action_export">صادر کردن</string>
     <string name="ny_i18n_action_import">وارد کردن</string>
+    <string name="ny_i18n_action_next">بعدی</string>
     <string name="ny_i18n_action_save">ذخیره</string>
     <string name="ny_i18n_action_settings">تنظیمات</string>
     <string name="ny_i18n_action_today">امروز</string>

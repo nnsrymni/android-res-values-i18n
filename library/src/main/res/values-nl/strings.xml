@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_edit">Bewerken</string>
     <string name="ny_i18n_action_export">Exporteren</string>
     <string name="ny_i18n_action_import">Importeren</string>
+    <string name="ny_i18n_action_next">Volgende</string>
     <string name="ny_i18n_action_save">Opslaan</string>
     <string name="ny_i18n_action_settings">Instellingen</string>
     <string name="ny_i18n_action_today">Vandaag</string>

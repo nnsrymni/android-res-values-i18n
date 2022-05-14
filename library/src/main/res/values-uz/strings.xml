@@ -2,6 +2,7 @@
 <resources>
     <string name="ny_i18n_action_delete">O‘chirish</string>
     <string name="ny_i18n_action_edit">Tahrirlash</string>
+    <string name="ny_i18n_action_next">Keyingisi</string>
     <string name="ny_i18n_action_save">Saqlash</string>
     <string name="ny_i18n_action_settings">Sozlamalar</string>
     <string name="ny_i18n_action_today">Bugun</string>

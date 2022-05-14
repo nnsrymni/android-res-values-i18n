@@ -2,6 +2,7 @@
 <resources>
     <string name="ny_i18n_action_delete">წაშლა</string>
     <string name="ny_i18n_action_edit">რედაქტირება</string>
+    <string name="ny_i18n_action_next">შემდეგი</string>
     <string name="ny_i18n_action_save">შენახვა</string>
     <string name="ny_i18n_action_settings">პარამეტრები</string>
     <string name="ny_i18n_action_today">დღეს</string>

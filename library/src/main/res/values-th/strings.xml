@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_edit">แก้ไข</string>
     <string name="ny_i18n_action_export">ส่งออก</string>
     <string name="ny_i18n_action_import">นำเข้า</string>
+    <string name="ny_i18n_action_next">ถัดไป</string>
     <string name="ny_i18n_action_save">บันทึก</string>
     <string name="ny_i18n_action_settings">การตั้งค่า</string>
     <string name="ny_i18n_action_today">วันนี้</string>
