@@ -25,7 +25,7 @@ repositories {
 ```gradle
 dependencies {
     …
-    implementation 'com.github.nnsrymni:android-res-values-i18n:0.1.0'
+    implementation 'com.github.nnsrymni:android-res-values-i18n:0.2.0'
 }
 ```
 
