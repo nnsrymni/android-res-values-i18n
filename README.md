@@ -3,7 +3,7 @@
 **android-res-values-i18n** (**values-i18n**) is an Android library (AAR) for Android app developers.
 It contains only pre-translated string resources.
 
-So far only 7 keys are included, but each has at least 40 translations.
+So far only 8 keys are included, but each has at least 40 translations.
 These translations are not machine translations, but have been carefully selected by comparing many popular apps.
 
 <br>
@@ -39,6 +39,7 @@ dependencies {
     <string name="action_edit"      >@string/ny_i18n_action_edit</string>
     <string name="action_export"    >@string/ny_i18n_action_export</string>
     <string name="action_import"    >@string/ny_i18n_action_import</string>
+    <string name="action_next"      >@string/ny_i18n_action_next</string>
     <string name="action_save"      >@string/ny_i18n_action_save</string>
     <string name="action_settings"  >@string/ny_i18n_action_settings</string>
     <string name="action_today"     >@string/ny_i18n_action_today</string>
@@ -319,6 +320,64 @@ Can be used for:
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">导入</td></tr>
 <tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">匯入</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">匯入</td></tr>
+</table></details>
+
+---
+
+### `@string/ny_i18n_action_next`
+
+Can be used for:
+- buttons
+- menu items
+
+<details open><table>
+<tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
+<tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Next</td></tr>
+<tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Volgende</td></tr>
+<tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ቀጣይ</td></tr>
+<tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">التالي</td></tr>
+<tr><td><code>res/values-as</code></td></td><td>Assamese</td><td lang="as" dir="auto">পৰৱৰ্তী</td></tr>
+<tr><td><code>res/values-az</code></td></td><td>Azerbaijani</td><td lang="az" dir="auto">N&ouml;vbəti</td></tr>
+<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Далей</td></tr>
+<tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Напред</td></tr>
+<tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">পরবর্তী</td></tr>
+<tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Seg&uuml;ent</td></tr>
+<tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Dal&scaron;&iacute;</td></tr>
+<tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">N&aelig;ste</td></tr>
+<tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Weiter</td></tr>
+<tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&pi;ό&mu;&epsilon;&nu;&omicron;</td></tr>
+<tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Siguiente</td></tr>
+<tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Hurrengoa</td></tr>
+<tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">بعدی</td></tr>
+<tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Seuraava</td></tr>
+<tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Suivant</td></tr>
+<tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Seguinte</td></tr>
+<tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Berikutnya</td></tr>
+<tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">&Aacute;fram</td></tr>
+<tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Avanti</td></tr>
+<tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">הבא</td></tr>
+<tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">次へ</td></tr>
+<tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">შემდეგი</td></tr>
+<tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Келесі</td></tr>
+<tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">បន្ទាប់</td></tr>
+<tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">다음</td></tr>
+<tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Tālāk</td></tr>
+<tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Следно</td></tr>
+<tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">അടുത്തത്</td></tr>
+<tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Seterusnya</td></tr>
+<tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Neste</td></tr>
+<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">अर्को</td></tr>
+<tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Volgende</td></tr>
+<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ପରବର୍ତ୍ତୀ</td></tr>
+<tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Seguinte</td></tr>
+<tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Далее</td></tr>
+<tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Ďalej</td></tr>
+<tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Naprej</td></tr>
+<tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">N&auml;sta</td></tr>
+<tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ถัดไป</td></tr>
+<tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Susunod</td></tr>
+<tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Далі</td></tr>
+<tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Keyingisi</td></tr>
 </table></details>
 
 ---
