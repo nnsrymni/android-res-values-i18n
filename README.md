@@ -51,8 +51,8 @@ dependencies {
 ### `@string/ny_i18n_action_delete`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -148,8 +148,8 @@ Can be used for:
 ### `@string/ny_i18n_action_edit`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -214,8 +214,8 @@ Can be used for:
 ### `@string/ny_i18n_action_export`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -270,8 +270,8 @@ Can be used for:
 ### `@string/ny_i18n_action_import`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -326,8 +326,8 @@ Can be used for:
 ### `@string/ny_i18n_action_save`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -423,8 +423,8 @@ Can be used for:
 ### `@string/ny_i18n_action_settings`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
@@ -504,8 +504,8 @@ Can be used for:
 ### `@string/ny_i18n_action_today`
 
 Can be used for:
-- [x] buttons
-- [x] menu items
+- buttons
+- menu items
 
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
