@@ -4,7 +4,7 @@
 It contains only pre-translated string resources.
 
 So far only 8 keys are included, but each has at least 40 translations.
-These translations are not machine translations, but have been carefully selected by comparing many popular apps.
+These are not machine-translated, but have been carefully selected by comparing many popular apps.
 
 <br>
 
