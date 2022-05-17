@@ -336,7 +336,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Volgende</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ቀጣይ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">التالي</td></tr>
-<tr><td><code>res/values-as</code></td></td><td>Assamese</td><td lang="as" dir="auto">পৰৱৰ্তী</td></tr>
 <tr><td><code>res/values-az</code></td></td><td>Azerbaijani</td><td lang="az" dir="auto">N&ouml;vbəti</td></tr>
 <tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Далей</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Напред</td></tr>
