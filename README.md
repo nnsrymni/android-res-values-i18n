@@ -531,7 +531,7 @@ Can be used for:
 <tr><td><code>res/values-mn</code></td></td><td>Mongolian</td><td lang="mn" dir="auto">Тохиргоо</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Tetapan</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Innstillinger</td></tr>
-<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">सेटिङ्हरू</td></tr>
+<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">सेटिङहरू</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Instellingen</td></tr>
 <tr><td><code>res/values-nn</code></td></td><td>Norwegian Nynorsk</td><td lang="nn" dir="auto">Innstillingar</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਸੈਟਿੰਗਾਂ</td></tr>
