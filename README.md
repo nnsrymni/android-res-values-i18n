@@ -141,7 +141,6 @@ Can be used for:
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">删除</td></tr>
 <tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">刪除</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">刪除</td></tr>
-<tr><td><code>res/values-zu</code></td></td><td>Zulu</td><td lang="zu" dir="auto">Susa</td></tr>
 </table></details>
 
 ---
