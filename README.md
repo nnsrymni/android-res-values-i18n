@@ -257,7 +257,7 @@ Can be used for:
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Exportera</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">ఎగుమతి చేయి</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ส่งออก</td></tr>
-<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Dışarı aktar</td></tr>
+<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Dışa aktar</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Експортувати</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Xuất</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">导出</td></tr>
