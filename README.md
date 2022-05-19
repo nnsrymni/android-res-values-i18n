@@ -313,7 +313,7 @@ Can be used for:
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Importera</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">దిగుమతి చేయి</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">นำเข้า</td></tr>
-<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">İ&ccedil;eri aktar</td></tr>
+<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">İ&ccedil;e aktar</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Імпортувати</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Nhập</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">导入</td></tr>
