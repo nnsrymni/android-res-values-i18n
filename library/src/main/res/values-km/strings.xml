@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">ប្រតិទិន</string>
     <string name="ny_i18n_action_delete">លុប</string>
     <string name="ny_i18n_action_edit">កែសម្រួល</string>
     <string name="ny_i18n_action_export">នាំចេញ</string>

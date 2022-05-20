@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Taqvim</string>
     <string name="ny_i18n_action_delete">O‘chirish</string>
     <string name="ny_i18n_action_edit">Tahrirlash</string>
     <string name="ny_i18n_action_next">Keyingisi</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Kalendár</string>
     <string name="ny_i18n_action_delete">Odstrániť</string>
     <string name="ny_i18n_action_edit">Upraviť</string>
     <string name="ny_i18n_action_export">Exportovať</string>

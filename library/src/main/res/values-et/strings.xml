@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Kalender</string>
     <string name="ny_i18n_action_delete">Kustuta</string>
     <string name="ny_i18n_action_export">Ekspordi</string>
     <string name="ny_i18n_action_import">Impordi</string>

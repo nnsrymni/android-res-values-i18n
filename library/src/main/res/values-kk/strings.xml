@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Күнтізбе</string>
     <string name="ny_i18n_action_delete">Жою</string>
     <string name="ny_i18n_action_export">Экспорттау</string>
     <string name="ny_i18n_action_import">Импорттау</string>

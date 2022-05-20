@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">ปฏิทิน</string>
     <string name="ny_i18n_action_delete">ลบ</string>
     <string name="ny_i18n_action_edit">แก้ไข</string>
     <string name="ny_i18n_action_export">ส่งออก</string>

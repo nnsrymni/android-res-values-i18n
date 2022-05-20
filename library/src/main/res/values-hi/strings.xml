@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">कैलेंडर</string>
     <string name="ny_i18n_action_delete">हटाएँ</string>
     <string name="ny_i18n_action_export">निर्यात करें</string>
     <string name="ny_i18n_action_import">आयात करें</string>

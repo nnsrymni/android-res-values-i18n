@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Календарь</string>
     <string name="ny_i18n_action_delete">Удалить</string>
     <string name="ny_i18n_action_edit">Изменить</string>
     <string name="ny_i18n_action_export">Экспорт</string>

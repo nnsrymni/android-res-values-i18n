@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Kalendar</string>
     <string name="ny_i18n_action_delete">Izbriši</string>
     <string name="ny_i18n_action_save">Spremi</string>
     <string name="ny_i18n_action_settings">Postavke</string>

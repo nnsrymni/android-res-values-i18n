@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ny_i18n_action_calendar">Egutegia</string>
     <string name="ny_i18n_action_delete">Ezabatu</string>
     <string name="ny_i18n_action_edit">Editatu</string>
     <string name="ny_i18n_action_export">Esportatu</string>
