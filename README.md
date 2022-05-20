@@ -3,7 +3,7 @@
 **android-res-values-i18n** (**values-i18n**) is an Android library (AAR) for Android app developers.
 It contains only pre-translated string resources.
 
-So far only 8 keys are included, but each has at least 40 translations.
+So far only 9 keys are included, but each has at least 40 translations.
 These are not machine-translated, but have been carefully selected by comparing many popular apps.
 
 <br>
@@ -35,6 +35,7 @@ dependencies {
 <!-- res/values/strings.xml in your app -->
 <resources>
     …
+    <string name="action_calendar"  >@string/ny_i18n_action_calendar</string>
     <string name="action_delete"    >@string/ny_i18n_action_delete</string>
     <string name="action_edit"      >@string/ny_i18n_action_edit</string>
     <string name="action_export"    >@string/ny_i18n_action_export</string>
@@ -48,6 +49,74 @@ dependencies {
 <br>
 
 ## Quick Reference
+
+### `@string/ny_i18n_action_calendar`
+
+Can be used for:
+- buttons
+- menu items
+
+<details open><table>
+<tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
+<tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Calendar</td></tr>
+<tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">የቀን መቁጠሪያ</td></tr>
+<tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">التقويم</td></tr>
+<tr><td><code>res/values-az</code></td></td><td>Azerbaijani</td><td lang="az" dir="auto">Təqvim</td></tr>
+<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Каляндар</td></tr>
+<tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Календар</td></tr>
+<tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">ক্যালেন্ডার</td></tr>
+<tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Kalendar</td></tr>
+<tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Calendari</td></tr>
+<tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Kalend&aacute;ř</td></tr>
+<tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Eta;&mu;&epsilon;&rho;&omicron;&lambda;ό&gamma;&iota;&omicron;</td></tr>
+<tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Calendario</td></tr>
+<tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Egutegia</td></tr>
+<tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">تقویم</td></tr>
+<tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Kalenteri</td></tr>
+<tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Calendrier</td></tr>
+<tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Calendario</td></tr>
+<tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">કૅલેન્ડર</td></tr>
+<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">कैलेंडर</td></tr>
+<tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Kalendar</td></tr>
+<tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Napt&aacute;r</td></tr>
+<tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Օրացույց</td></tr>
+<tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Calendario</td></tr>
+<tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">カレンダー</td></tr>
+<tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">კალენდარი</td></tr>
+<tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Күнтізбе</td></tr>
+<tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">ប្រតិទិន</td></tr>
+<tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಕ್ಯಾಲೆಂಡರ್</td></tr>
+<tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ປະຕິທິນ</td></tr>
+<tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Kalendorius</td></tr>
+<tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Kalendārs</td></tr>
+<tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Календар</td></tr>
+<tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">കലണ്ടർ</td></tr>
+<tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">पात्रो</td></tr>
+<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">କ୍ୟାଲେଣ୍ଡର୍</td></tr>
+<tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Kalendarz</td></tr>
+<tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Календарь</td></tr>
+<tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Kalend&aacute;r</td></tr>
+<tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Koledar</td></tr>
+<tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Kalendari</td></tr>
+<tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Календар</td></tr>
+<tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Kalendar</td></tr>
+<tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Kalender</td></tr>
+<tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ปฏิทิน</td></tr>
+<tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Kalendaryo</td></tr>
+<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Takvim</td></tr>
+<tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Календар</td></tr>
+<tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Taqvim</td></tr>
+<tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Lịch</td></tr>
+<tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">日历</td></tr>
+</table></details>
+
+---
 
 ### `@string/ny_i18n_action_delete`
 
