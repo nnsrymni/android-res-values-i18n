@@ -2,7 +2,6 @@
 <resources>
     <string name="ny_i18n_action_calendar">Koledar</string>
     <string name="ny_i18n_action_delete">Izbriši</string>
-    <string name="ny_i18n_action_edit">Uredi</string>
     <string name="ny_i18n_action_next">Naprej</string>
     <string name="ny_i18n_action_save">Shrani</string>
     <string name="ny_i18n_action_settings">Nastavitve</string>

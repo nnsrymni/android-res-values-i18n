@@ -192,6 +192,7 @@ Can be used for:
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">አርትዕ</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Редактиране</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সম্পাদনা করুন</td></tr>
+<tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Uređivanje</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Edita</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Upravit</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Rediger</td></tr>
@@ -210,7 +211,6 @@ Can be used for:
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">編集</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">რედაქტირება</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">កែសម្រួល</td></tr>
-<tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">편집</td></tr>
 <tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ແກ້ໄຂ</td></tr>
 <tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Redaguoti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Rediģēt</td></tr>
@@ -224,15 +224,13 @@ Can be used for:
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Editar</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Изменить</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Upraviť</td></tr>
-<tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Uredi</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Redakto</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Redigera</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">திருத்து</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">แก้ไข</td></tr>
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">I-edit</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">D&uuml;zenle</td></tr>
-<tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Редагувати</td></tr>
-<tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Tahrirlash</td></tr>
+<tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Chỉnh sửa</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">编辑</td></tr>
 <tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">編輯</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">編輯</td></tr>

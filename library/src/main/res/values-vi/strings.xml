@@ -2,6 +2,7 @@
 <resources>
     <string name="ny_i18n_action_calendar">Lịch</string>
     <string name="ny_i18n_action_delete">Xóa</string>
+    <string name="ny_i18n_action_edit">Chỉnh sửa</string>
     <string name="ny_i18n_action_export">Xuất</string>
     <string name="ny_i18n_action_import">Nhập</string>
     <string name="ny_i18n_action_save">Lưu</string>

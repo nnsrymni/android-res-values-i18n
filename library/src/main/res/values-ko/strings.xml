@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ny_i18n_action_delete">삭제</string>
-    <string name="ny_i18n_action_edit">편집</string>
     <string name="ny_i18n_action_export">내보내기</string>
     <string name="ny_i18n_action_import">가져오기</string>
     <string name="ny_i18n_action_next">다음</string>
