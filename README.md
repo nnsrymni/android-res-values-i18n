@@ -80,7 +80,6 @@ Can be used for:
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">કૅલેન્ડર</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Kalendar</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Napt&aacute;r</td></tr>
-<tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Օրացույց</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Kalender</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Calendario</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">カレンダー</td></tr>
@@ -145,7 +144,6 @@ Can be used for:
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">હટાવો</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">T&ouml;rl&eacute;s</td></tr>
-<tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Ջնջել</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Hapus</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Ey&eth;a</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Elimina</td></tr>
@@ -452,7 +450,6 @@ Can be used for:
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">સાચવો</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Spremi</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Ment&eacute;s</td></tr>
-<tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Պահել</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Simpan</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Vista</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Salva</td></tr>
@@ -534,7 +531,6 @@ Can be used for:
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">સેટિંગ્સ</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Postavke</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Be&aacute;ll&iacute;t&aacute;sok</td></tr>
-<tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Կարգավորումներ</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Setelan</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Stillingar</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Impostazioni</td></tr>
