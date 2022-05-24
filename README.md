@@ -167,7 +167,6 @@ Can be used for:
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Dzēst</td></tr>
 <tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Избриши</td></tr>
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">ഇല്ലാതാക്കുക</td></tr>
-<tr><td><code>res/values-mn</code></td></td><td>Mongolian</td><td lang="mn" dir="auto">Устгах</td></tr>
 <tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">हटवा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Padam</td></tr>
 <tr><td><code>res/values-my</code></td></td><td>Burmese</td><td lang="my" dir="auto">ဖျက်ရန်</td></tr>
@@ -490,7 +489,6 @@ Can be used for:
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Saglabāt</td></tr>
 <tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Зачувај</td></tr>
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">സംരക്ഷിക്കുക</td></tr>
-<tr><td><code>res/values-mn</code></td></td><td>Mongolian</td><td lang="mn" dir="auto">Хадгалах</td></tr>
 <tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">सुरक्षित करा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Simpan</td></tr>
 <tr><td><code>res/values-my</code></td></td><td>Burmese</td><td lang="my" dir="auto">သိမ်းရန်</td></tr>
@@ -575,7 +573,6 @@ Can be used for:
 <tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ການຕັ້ງຄ່າ</td></tr>
 <tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Nustatymai</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Iestatījumi</td></tr>
-<tr><td><code>res/values-mn</code></td></td><td>Mongolian</td><td lang="mn" dir="auto">Тохиргоо</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Tetapan</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Innstillinger</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">सेटिङहरू</td></tr>
