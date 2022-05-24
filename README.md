@@ -481,7 +481,6 @@ Can be used for:
 <tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">שמור</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">保存</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">შენახვა</td></tr>
-<tr><td><code>res/values-kab</code></td></td><td>Kabyle</td><td lang="kab" dir="auto">Sekles</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Сақтау</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">រក្សាទុក</td></tr>
 <tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಉಳಿಸಿ</td></tr>
@@ -571,7 +570,6 @@ Can be used for:
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Impostazioni</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">設定</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">პარამეტრები</td></tr>
-<tr><td><code>res/values-kab</code></td></td><td>Kabyle</td><td lang="kab" dir="auto">Iɣewwaṛen</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">ការកំណត់</td></tr>
 <tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಸೆಟ್ಟಿಂಗ್&zwnj;ಗಳು</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">설정</td></tr>
