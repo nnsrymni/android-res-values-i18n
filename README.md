@@ -147,7 +147,6 @@ Can be used for:
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Hapus</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Ey&eth;a</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Elimina</td></tr>
-<tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">מחק</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">削除</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">წაშლა</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Жою</td></tr>
@@ -393,7 +392,6 @@ Can be used for:
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Berikutnya</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">&Aacute;fram</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Avanti</td></tr>
-<tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">הבא</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">次へ</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">შემდეგი</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Келесі</td></tr>
@@ -453,7 +451,6 @@ Can be used for:
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Simpan</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Vista</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Salva</td></tr>
-<tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">שמור</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">保存</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">შენახვა</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Сақтау</td></tr>
@@ -603,7 +600,6 @@ Can be used for:
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Hari ini</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">&Iacute; dag</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Oggi</td></tr>
-<tr><td><code>res/values-iw</code></td></td><td>Hebrew</td><td lang="he" dir="auto">היום</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">今日</td></tr>
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">დღეს</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Бүгін</td></tr>

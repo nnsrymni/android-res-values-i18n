@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ny_i18n_action_delete">מחק</string>
-    <string name="ny_i18n_action_next">הבא</string>
-    <string name="ny_i18n_action_save">שמור</string>
-    <string name="ny_i18n_action_today">היום</string>
-</resources>
