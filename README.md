@@ -179,7 +179,6 @@ Can be used for:
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Eliminar</td></tr>
 <tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Ştergere</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Удалить</td></tr>
-<tr><td><code>res/values-si</code></td></td><td>Sinhala</td><td lang="si" dir="auto">මකන්න</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Odstr&aacute;niť</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Fshi</td></tr>
@@ -496,7 +495,6 @@ Can be used for:
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Guardar</td></tr>
 <tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Salvare</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Сохранить</td></tr>
-<tr><td><code>res/values-si</code></td></td><td>Sinhala</td><td lang="si" dir="auto">සුරකින්න</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Uložiť</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Shrani</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Ruaj</td></tr>
