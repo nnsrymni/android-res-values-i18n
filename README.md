@@ -174,7 +174,6 @@ Can be used for:
 <tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Избриши</td></tr>
 <tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Ta bort</td></tr>
-<tr><td><code>res/values-sw</code></td></td><td>Swahili</td><td lang="sw" dir="auto">Futa</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">நீக்கு</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">తొలగించు</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ลบ</td></tr>
@@ -238,7 +237,6 @@ Can be used for:
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Uredi</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Redakto</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Redigera</td></tr>
-<tr><td><code>res/values-sw</code></td></td><td>Swahili</td><td lang="sw" dir="auto">Badilisha</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">திருத்து</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">แก้ไข</td></tr>
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">I-edit</td></tr>
@@ -476,7 +474,6 @@ Can be used for:
 <tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Сачувај</td></tr>
 <tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Sačuvaj</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Spara</td></tr>
-<tr><td><code>res/values-sw</code></td></td><td>Swahili</td><td lang="sw" dir="auto">Hifadhi</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">சேமி</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">సేవ్ చేయి</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">บันทึก</td></tr>
@@ -548,7 +545,6 @@ Can be used for:
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Nastavenia</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Nastavitve</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Inst&auml;llningar</td></tr>
-<tr><td><code>res/values-sw</code></td></td><td>Swahili</td><td lang="sw" dir="auto">Mipangilio</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">அமைப்புகள்</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">సెట్టింగ్&zwnj;లు</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">การตั้งค่า</td></tr>
@@ -623,7 +619,6 @@ Can be used for:
 <tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Данас</td></tr>
 <tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Danas</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">I dag</td></tr>
-<tr><td><code>res/values-sw</code></td></td><td>Swahili</td><td lang="sw" dir="auto">Leo</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">இன்று</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">ఈ రోజు</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">วันนี้</td></tr>
