@@ -78,7 +78,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Calendrier</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Calendario</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">કૅલેન્ડર</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">कैलेंडर</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Kalendar</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Napt&aacute;r</td></tr>
 <tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Օրացույց</td></tr>
@@ -144,7 +143,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Supprimer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Eliminar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">હટાવો</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">हटाएँ</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">T&ouml;rl&eacute;s</td></tr>
 <tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Ջնջել</td></tr>
@@ -283,7 +281,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Exporter</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Exportar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">નિકાસ કરો</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">निर्यात करें</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Export&aacute;l&aacute;s</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Ekspor</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Flytja &uacute;t</td></tr>
@@ -339,7 +336,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Importer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Importar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">આયાત કરો</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">आयात करें</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Import&aacute;l&aacute;s</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Impor</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Flytja inn</td></tr>
@@ -454,7 +450,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Enregistrer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Gardar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">સાચવો</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">सहेजें</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Spremi</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Ment&eacute;s</td></tr>
 <tr><td><code>res/values-hy</code></td></td><td>Armenian</td><td lang="hy" dir="auto">Պահել</td></tr>
@@ -607,7 +602,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Aujourd'hui</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Hoxe</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">આજે</td></tr>
-<tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">आज</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Danas</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Ma</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Hari ini</td></tr>
