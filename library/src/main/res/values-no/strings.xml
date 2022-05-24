@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="ny_i18n_action_delete">Slett</string>
-    <string name="ny_i18n_action_edit">Rediger</string>
-    <string name="ny_i18n_action_save">Lagre</string>
-    <string name="ny_i18n_action_today">I dag</string>
-</resources>

@@ -172,7 +172,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Slett</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">मेटाउनुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Verwijderen</td></tr>
-<tr><td><code>res/values-no</code></td></td><td>Norwegian</td><td lang="no" dir="auto">Slett</td></tr>
 <tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ବିଲୋପ</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਮਿਟਾਓ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Usuń</td></tr>
@@ -245,7 +244,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Rediger</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">सम्पादन गर्नुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Bewerken</td></tr>
-<tr><td><code>res/values-no</code></td></td><td>Norwegian</td><td lang="no" dir="auto">Rediger</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਸੰਪਾਦਨ ਕਰੋ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Edytuj</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Editar</td></tr>
@@ -491,7 +489,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Lagre</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">बचत गर्नुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Opslaan</td></tr>
-<tr><td><code>res/values-no</code></td></td><td>Norwegian</td><td lang="no" dir="auto">Lagre</td></tr>
 <tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ସଂରକ୍ଷଣ</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਸੁਰੱਖਿਅਤ ਕਰੋ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Zapisz</td></tr>
@@ -649,7 +646,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">I dag</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">आज</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Vandaag</td></tr>
-<tr><td><code>res/values-no</code></td></td><td>Norwegian</td><td lang="no" dir="auto">I dag</td></tr>
 <tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ଆଜି</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਅੱਜ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Dzisiaj</td></tr>
