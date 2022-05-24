@@ -191,7 +191,6 @@ Can be used for:
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ลบ</td></tr>
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Tanggalin</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Sil</td></tr>
-<tr><td><code>res/values-ug</code></td></td><td>Uyghur</td><td lang="ug" dir="auto">ئۆچۈرۈش</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Видалити</td></tr>
 <tr><td><code>res/values-ur</code></td></td><td>Urdu</td><td lang="ur" dir="auto">حذف کریں</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">O&lsquo;chirish</td></tr>
@@ -507,7 +506,6 @@ Can be used for:
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">บันทึก</td></tr>
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">I-save</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Kaydet</td></tr>
-<tr><td><code>res/values-ug</code></td></td><td>Uyghur</td><td lang="ug" dir="auto">ساقلاش</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Зберегти</td></tr>
 <tr><td><code>res/values-ur</code></td></td><td>Urdu</td><td lang="ur" dir="auto">محفوظ کریں</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Saqlash</td></tr>
