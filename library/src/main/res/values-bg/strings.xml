@@ -6,7 +6,6 @@
     <string name="ny_i18n_action_export">Експортиране</string>
     <string name="ny_i18n_action_import">Импортиране</string>
     <string name="ny_i18n_action_next">Напред</string>
-    <string name="ny_i18n_action_save">Запиши</string>
     <string name="ny_i18n_action_settings">Настройки</string>
     <string name="ny_i18n_action_today">Днес</string>
 </resources>

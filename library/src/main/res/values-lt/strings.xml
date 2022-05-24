@@ -4,7 +4,6 @@
     <string name="ny_i18n_action_edit">Redaguoti</string>
     <string name="ny_i18n_action_export">Eksportuoti</string>
     <string name="ny_i18n_action_import">Importuoti</string>
-    <string name="ny_i18n_action_save">Įrašyti</string>
     <string name="ny_i18n_action_settings">Nustatymai</string>
     <string name="ny_i18n_action_today">Šiandien</string>
 </resources>

@@ -418,8 +418,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Stoor</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">አስቀምጥ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">حفظ</td></tr>
-<tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Запиши</td></tr>
-<tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সংরক্ষণ করুন</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Sačuvaj</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Desa</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Uložit</td></tr>
@@ -446,16 +444,12 @@ Can be used for:
 <tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಉಳಿಸಿ</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">저장</td></tr>
 <tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ບັນທຶກ</td></tr>
-<tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Įra&scaron;yti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Saglabāt</td></tr>
 <tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Зачувај</td></tr>
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">സംരക്ഷിക്കുക</td></tr>
-<tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">सुरक्षित करा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Simpan</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Lagre</td></tr>
-<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">बचत गर्नुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Opslaan</td></tr>
-<tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਸੁਰੱਖਿਅਤ ਕਰੋ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Zapisz</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Salvar</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Guardar</td></tr>
