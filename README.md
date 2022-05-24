@@ -3,7 +3,7 @@
 **android-res-values-i18n** (**values-i18n**) is an Android library (AAR) for Android app developers.
 It contains only pre-translated string resources.
 
-So far only 9 keys are included, but each has at least 40 translations.
+So far only 10 keys are included, but each has at least 30 translations.
 These are not machine-translated, but have been carefully selected by comparing many popular apps.
 
 <br>
@@ -35,15 +35,16 @@ dependencies {
 <!-- res/values/strings.xml in your app -->
 <resources>
     …
-    <string name="action_calendar"  >@string/ny_i18n_action_calendar</string>
-    <string name="action_delete"    >@string/ny_i18n_action_delete</string>
-    <string name="action_edit"      >@string/ny_i18n_action_edit</string>
-    <string name="action_export"    >@string/ny_i18n_action_export</string>
-    <string name="action_import"    >@string/ny_i18n_action_import</string>
-    <string name="action_next"      >@string/ny_i18n_action_next</string>
-    <string name="action_save"      >@string/ny_i18n_action_save</string>
-    <string name="action_settings"  >@string/ny_i18n_action_settings</string>
-    <string name="action_today"     >@string/ny_i18n_action_today</string>
+    <string name="action_calendar"      >@string/ny_i18n_action_calendar</string>
+    <string name="action_delete"        >@string/ny_i18n_action_delete</string>
+    <string name="action_edit"          >@string/ny_i18n_action_edit</string>
+    <string name="action_export"        >@string/ny_i18n_action_export</string>
+    <string name="action_import"        >@string/ny_i18n_action_import</string>
+    <string name="action_next"          >@string/ny_i18n_action_next</string>
+    <string name="action_save"          >@string/ny_i18n_action_save</string>
+    <string name="action_select_all"    >@string/ny_i18n_action_select_all</string>
+    <string name="action_settings"      >@string/ny_i18n_action_settings</string>
+    <string name="action_today"         >@string/ny_i18n_action_today</string>
 ```
 
 <br>
@@ -471,6 +472,50 @@ Can be used for:
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">保存</td></tr>
 <tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">儲存</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">儲存</td></tr>
+</table></details>
+
+---
+
+### `@string/ny_i18n_action_select_all`
+
+Can be used for:
+- buttons
+- menu items
+
+<details open><table>
+<tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
+<tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Select all</td></tr>
+<tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ሁሉንም ምረጥ</td></tr>
+<tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Selecciona-ho tot</td></tr>
+<tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Vybrat v&scaron;e</td></tr>
+<tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&pi;&iota;&lambda;&omicron;&gamma;ή ό&lambda;&omega;&nu;</td></tr>
+<tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Seleccionar todo</td></tr>
+<tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Vali k&otilde;ik</td></tr>
+<tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Hautatu guztiak</td></tr>
+<tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">انتخاب همه</td></tr>
+<tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Valitse kaikki</td></tr>
+<tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Seleccionar todo</td></tr>
+<tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Odaberi sve</td></tr>
+<tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Pilih semua</td></tr>
+<tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Velja allt</td></tr>
+<tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">すべて選択</td></tr>
+<tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Барлығын таңдау</td></tr>
+<tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">모두 선택</td></tr>
+<tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Atlasīt visu</td></tr>
+<tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">എല്ലാം തിരഞ്ഞെടുക്കുക</td></tr>
+<tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">सर्व निवडा</td></tr>
+<tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Pilih semua</td></tr>
+<tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Alles selecteren</td></tr>
+<tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Selecionar tudo</td></tr>
+<tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Vybrať v&scaron;etko</td></tr>
+<tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Изабери све</td></tr>
+<tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Izaberi sve</td></tr>
+<tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">เลือกทั้งหมด</td></tr>
+<tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Piliin lahat</td></tr>
+<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">T&uuml;m&uuml;n&uuml; se&ccedil;</td></tr>
+<tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Chọn tất cả</td></tr>
+<tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">全选</td></tr>
+<tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">全選</td></tr>
 </table></details>
 
 ---
