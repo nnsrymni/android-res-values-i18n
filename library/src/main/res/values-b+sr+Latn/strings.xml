@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_delete">Izbriši</string>
     <string name="ny_i18n_action_export">Izvezi</string>
     <string name="ny_i18n_action_import">Uvezi</string>
+    <string name="ny_i18n_action_next">Dalje</string>
     <string name="ny_i18n_action_save">Sačuvaj</string>
     <string name="ny_i18n_action_today">Danas</string>
 </resources>

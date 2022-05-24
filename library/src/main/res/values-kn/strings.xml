@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ny_i18n_action_calendar">ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="ny_i18n_action_next">ಮುಂದೆ</string>
     <string name="ny_i18n_action_save">ಉಳಿಸಿ</string>
     <string name="ny_i18n_action_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="ny_i18n_action_today">ಇಂದು</string>

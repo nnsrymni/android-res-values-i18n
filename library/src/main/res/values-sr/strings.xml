@@ -2,6 +2,7 @@
 <resources>
     <string name="ny_i18n_action_calendar">Календар</string>
     <string name="ny_i18n_action_delete">Избриши</string>
+    <string name="ny_i18n_action_next">Даље</string>
     <string name="ny_i18n_action_save">Сачувај</string>
     <string name="ny_i18n_action_today">Данас</string>
 </resources>

@@ -2,6 +2,7 @@
 <resources>
     <string name="ny_i18n_action_delete">刪除</string>
     <string name="ny_i18n_action_edit">編輯</string>
+    <string name="ny_i18n_action_next">下一步</string>
     <string name="ny_i18n_action_save">儲存</string>
     <string name="ny_i18n_action_settings">設定</string>
     <string name="ny_i18n_action_today">今天</string>

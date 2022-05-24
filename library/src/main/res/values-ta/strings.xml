@@ -3,6 +3,7 @@
     <string name="ny_i18n_action_delete">நீக்கு</string>
     <string name="ny_i18n_action_edit">திருத்து</string>
     <string name="ny_i18n_action_import">இறக்கு</string>
+    <string name="ny_i18n_action_next">அடுத்து</string>
     <string name="ny_i18n_action_save">சேமி</string>
     <string name="ny_i18n_action_settings">அமைப்புகள்</string>
     <string name="ny_i18n_action_today">இன்று</string>

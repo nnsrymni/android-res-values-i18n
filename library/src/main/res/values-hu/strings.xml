@@ -5,6 +5,7 @@
     <string name="ny_i18n_action_edit">Szerkesztés</string>
     <string name="ny_i18n_action_export">Exportálás</string>
     <string name="ny_i18n_action_import">Importálás</string>
+    <string name="ny_i18n_action_next">Tovább</string>
     <string name="ny_i18n_action_save">Mentés</string>
     <string name="ny_i18n_action_settings">Beállítások</string>
     <string name="ny_i18n_action_today">Ma</string>

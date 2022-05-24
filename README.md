@@ -359,35 +359,49 @@ Can be used for:
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Weiter</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&pi;ό&mu;&epsilon;&nu;&omicron;</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Siguiente</td></tr>
+<tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">J&auml;rgmine</td></tr>
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Hurrengoa</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">بعدی</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Seuraava</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Suivant</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Seguinte</td></tr>
+<tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">આગલું</td></tr>
+<tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Dalje</td></tr>
+<tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Tov&aacute;bb</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Berikutnya</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">&Aacute;fram</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Avanti</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">次へ</td></tr>
-<tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">შემდეგი</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Келесі</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">បន្ទាប់</td></tr>
+<tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಮುಂದೆ</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">다음</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Tālāk</td></tr>
 <tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Следно</td></tr>
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">അടുത്തത്</td></tr>
+<tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">पुढील</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Seterusnya</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Neste</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">अर्को</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Volgende</td></tr>
+<tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Dalej</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Seguinte</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Далее</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Ďalej</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Naprej</td></tr>
+<tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Даље</td></tr>
+<tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Dalje</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">N&auml;sta</td></tr>
+<tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">அடுத்து</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ถัดไป</td></tr>
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Susunod</td></tr>
+<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">İleri</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Далі</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Keyingisi</td></tr>
+<tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Tiếp theo</td></tr>
+<tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">下一步</td></tr>
+<tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">下一步</td></tr>
+<tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">下一步</td></tr>
 </table></details>
 
 ---
