@@ -62,7 +62,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Kalender</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">የቀን መቁጠሪያ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">التقويم</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Каляндар</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Календар</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">ক্যালেন্ডার</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Kalendar</td></tr>
@@ -129,7 +128,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Skrap</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ሰርዝ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">حذف</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Выдаліць</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Изтриване</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">মুছুন</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Izbri&scaron;i</td></tr>
@@ -210,7 +208,6 @@ Can be used for:
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
 <tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Edit</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">አርትዕ</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Рэдагаваць</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Редактиране</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সম্পাদনা করুন</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Edita</td></tr>
@@ -386,7 +383,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Volgende</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ቀጣይ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">التالي</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Далей</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Напред</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">পরবর্তী</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Seg&uuml;ent</td></tr>
@@ -442,7 +438,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Stoor</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">አስቀምጥ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">حفظ</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Захаваць</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Запиши</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সংরক্ষণ করুন</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Sačuvaj</td></tr>
@@ -525,7 +520,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Instellings</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ቅንብሮች</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">الإعدادات</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Налады</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Настройки</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সেটিংস</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Postavke</td></tr>
@@ -597,7 +591,6 @@ Can be used for:
 <tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Vandag</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ዛሬ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">اليوم</td></tr>
-<tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Сёння</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Днес</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">আজ</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Danas</td></tr>
