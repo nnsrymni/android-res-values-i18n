@@ -122,14 +122,12 @@ Can be used for:
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
 <tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Delete</td></tr>
-<tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Skrap</td></tr>
 <tr><td><code>res/values-am</code></td></td><td>Amharic</td><td lang="am" dir="auto">ሰርዝ</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">حذف</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Изтриване</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">মুছুন</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Suprimeix</td></tr>
-<tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Odstranit</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Slet</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">L&ouml;schen</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Delta;&iota;&alpha;&gamma;&rho;&alpha;&phi;ή</td></tr>
@@ -140,7 +138,6 @@ Can be used for:
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Poista</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Supprimer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Eliminar</td></tr>
-<tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">હટાવો</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">T&ouml;rl&eacute;s</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Hapus</td></tr>
@@ -150,17 +147,14 @@ Can be used for:
 <tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">წაშლა</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Жою</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">លុប</td></tr>
-<tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಅಳಿಸು</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">삭제</td></tr>
 <tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ລຶບ</td></tr>
-<tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Naikinti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Dzēst</td></tr>
 <tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Избриши</td></tr>
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">ഇല്ലാതാക്കുക</td></tr>
 <tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">हटवा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Padam</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Slett</td></tr>
-<tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">मेटाउनुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Verwijderen</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਮਿਟਾਓ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Usuń</td></tr>
@@ -172,11 +166,9 @@ Can be used for:
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Fshi</td></tr>
 <tr><td><code>res/values-sr</code></td></td><td>Serbian</td><td lang="sr" dir="auto">Избриши</td></tr>
 <tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Izbri&scaron;i</td></tr>
-<tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Ta bort</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">நீக்கு</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">తొలగించు</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ลบ</td></tr>
-<tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Tanggalin</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Sil</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Видалити</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">O&lsquo;chirish</td></tr>
