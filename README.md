@@ -166,7 +166,6 @@ Can be used for:
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Usuń</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Excluir</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Eliminar</td></tr>
-<tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Ştergere</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Удалить</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Odstr&aacute;niť</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Izbri&scaron;i</td></tr>
@@ -466,7 +465,6 @@ Can be used for:
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Zapisz</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Salvar</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Guardar</td></tr>
-<tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Salvare</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Сохранить</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Uložiť</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Shrani</td></tr>
@@ -540,7 +538,6 @@ Can be used for:
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Ustawienia</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Configura&ccedil;&otilde;es</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Defini&ccedil;&otilde;es</td></tr>
-<tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Setări</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Настройки</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Nastavenia</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Nastavitve</td></tr>
@@ -611,7 +608,6 @@ Can be used for:
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਅੱਜ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Dzisiaj</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Hoje</td></tr>
-<tr><td><code>res/values-ro</code></td></td><td>Romanian</td><td lang="ro" dir="auto">Azi</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Сегодня</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Dnes</td></tr>
 <tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Danes</td></tr>
