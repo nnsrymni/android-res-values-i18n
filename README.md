@@ -148,7 +148,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Supprimer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Eliminar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">હટાવો</td></tr>
-<tr><td><code>res/values-he</code></td></td><td>Hebrew</td><td lang="he" dir="auto">מחק</td></tr>
 <tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">हटाएँ</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">T&ouml;rl&eacute;s</td></tr>
@@ -472,7 +471,6 @@ Can be used for:
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Enregistrer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Gardar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">સાચવો</td></tr>
-<tr><td><code>res/values-he</code></td></td><td>Hebrew</td><td lang="he" dir="auto">שמור</td></tr>
 <tr><td><code>res/values-hi</code></td></td><td>Hindi</td><td lang="hi" dir="auto">सहेजें</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Spremi</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Ment&eacute;s</td></tr>
