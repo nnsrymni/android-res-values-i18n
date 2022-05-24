@@ -146,7 +146,6 @@ Can be used for:
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">حذف</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Poista</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Supprimer</td></tr>
-<tr><td><code>res/values-gd</code></td></td><td>Scottish Gaelic</td><td lang="gd" dir="auto">Sguab &agrave;s</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Eliminar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">હટાવો</td></tr>
 <tr><td><code>res/values-he</code></td></td><td>Hebrew</td><td lang="he" dir="auto">מחק</td></tr>
@@ -564,7 +563,6 @@ Can be used for:
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">تنظیمات</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Asetukset</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Param&egrave;tres</td></tr>
-<tr><td><code>res/values-gd</code></td></td><td>Scottish Gaelic</td><td lang="gd" dir="auto">Roghainnean</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Configuraci&oacute;n</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">સેટિંગ્સ</td></tr>
 <tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Postavke</td></tr>
