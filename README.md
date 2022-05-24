@@ -247,47 +247,41 @@ Can be used for:
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
 <tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Export</td></tr>
-<tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Voer uit</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">تصدير</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Експортиране</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">রপ্তানি করুন</td></tr>
-<tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Exporta</td></tr>
+<tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Exportovat</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Eksport&eacute;r</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Exportieren</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&xi;&alpha;&gamma;&omega;&gamma;ή</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Exportar</td></tr>
-<tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Ekspordi</td></tr>
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Esportatu</td></tr>
-<tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">صادر کردن</td></tr>
+<tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Vie</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Exporter</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Exportar</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">નિકાસ કરો</td></tr>
+<tr><td><code>res/values-hr</code></td></td><td>Croatian</td><td lang="hr" dir="auto">Izvoz</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Export&aacute;l&aacute;s</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Ekspor</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Flytja &uacute;t</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Esporta</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">エクスポート</td></tr>
+<tr><td><code>res/values-ka</code></td></td><td>Georgian</td><td lang="ka" dir="auto">ექსპორტი</td></tr>
 <tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Экспорттау</td></tr>
-<tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">នាំចេញ</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">내보내기</td></tr>
 <tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Eksportuoti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Eksportēt</td></tr>
-<tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Извези</td></tr>
-<tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Eksport</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Exporteren</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Eksportuj</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Exportar</td></tr>
-<tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Экспорт</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Exportovať</td></tr>
+<tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Izvozi</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Eksporto</td></tr>
+<tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Izvezi</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Exportera</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">ఎగుమతి చేయి</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">ส่งออก</td></tr>
-<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Dışa aktar</td></tr>
-<tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Експортувати</td></tr>
-<tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Xuất</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">导出</td></tr>
-<tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">匯出</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">匯出</td></tr>
 </table></details>
 

@@ -2,7 +2,6 @@
 <resources>
     <string name="ny_i18n_action_delete">Padam</string>
     <string name="ny_i18n_action_edit">Edit</string>
-    <string name="ny_i18n_action_export">Eksport</string>
     <string name="ny_i18n_action_import">Import</string>
     <string name="ny_i18n_action_next">Seterusnya</string>
     <string name="ny_i18n_action_save">Simpan</string>
