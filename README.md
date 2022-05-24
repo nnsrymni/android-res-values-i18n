@@ -179,7 +179,6 @@ Can be used for:
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Tanggalin</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Sil</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Видалити</td></tr>
-<tr><td><code>res/values-ur</code></td></td><td>Urdu</td><td lang="ur" dir="auto">حذف کریں</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">O&lsquo;chirish</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">X&oacute;a</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">删除</td></tr>
@@ -478,7 +477,6 @@ Can be used for:
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">I-save</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Kaydet</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Зберегти</td></tr>
-<tr><td><code>res/values-ur</code></td></td><td>Urdu</td><td lang="ur" dir="auto">محفوظ کریں</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Saqlash</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Lưu</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">保存</td></tr>
@@ -621,7 +619,6 @@ Can be used for:
 <tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Ngayong araw</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Bug&uuml;n</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Сьогодні</td></tr>
-<tr><td><code>res/values-ur</code></td></td><td>Urdu</td><td lang="ur" dir="auto">آج</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Bugun</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">H&ocirc;m nay</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">今天</td></tr>
