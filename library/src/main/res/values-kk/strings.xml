@@ -5,5 +5,6 @@
     <string name="ny_i18n_action_export">Экспорттау</string>
     <string name="ny_i18n_action_next">Келесі</string>
     <string name="ny_i18n_action_save">Сақтау</string>
+    <string name="ny_i18n_action_settings">Параметрлер</string>
     <string name="ny_i18n_action_today">Бүгін</string>
 </resources>

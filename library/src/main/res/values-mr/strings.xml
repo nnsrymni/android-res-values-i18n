@@ -3,5 +3,6 @@
     <string name="ny_i18n_action_delete">हटवा</string>
     <string name="ny_i18n_action_edit">संपादित करा</string>
     <string name="ny_i18n_action_next">पुढील</string>
+    <string name="ny_i18n_action_settings">सेटिंग्ज</string>
     <string name="ny_i18n_action_today">आज</string>
 </resources>
