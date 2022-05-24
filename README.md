@@ -296,7 +296,6 @@ Can be used for:
 <details open><table>
 <tr><th>Directory</th><th>Locale</th><th>Translation</th></tr>
 <tr><td><code>res/values</code></td></td><td>(default)</td><td lang="en-US" dir="auto">Import</td></tr>
-<tr><td><code>res/values-af</code></td></td><td>Afrikaans</td><td lang="af" dir="auto">Voer in</td></tr>
 <tr><td><code>res/values-ar</code></td></td><td>Arabic</td><td lang="ar" dir="auto">استيراد</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Импортиране</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">আমদানি করুন</td></tr>
@@ -305,38 +304,36 @@ Can be used for:
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Importieren</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&iota;&sigma;&alpha;&gamma;&omega;&gamma;ή</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Importar</td></tr>
-<tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Impordi</td></tr>
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Inportatu</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">وارد کردن</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Importer</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Importar</td></tr>
-<tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">આયાત કરો</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Import&aacute;l&aacute;s</td></tr>
 <tr><td><code>res/values-in</code></td></td><td>Indonesian</td><td lang="id" dir="auto">Impor</td></tr>
 <tr><td><code>res/values-is</code></td></td><td>Icelandic</td><td lang="is" dir="auto">Flytja inn</td></tr>
 <tr><td><code>res/values-it</code></td></td><td>Italian</td><td lang="it" dir="auto">Importa</td></tr>
 <tr><td><code>res/values-ja</code></td></td><td>Japanese</td><td lang="ja" dir="auto">インポート</td></tr>
-<tr><td><code>res/values-kk</code></td></td><td>Kazakh</td><td lang="kk" dir="auto">Импорттау</td></tr>
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">នាំចូល</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">가져오기</td></tr>
+<tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ນຳເຂົ້າ</td></tr>
 <tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Importuoti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Importēt</td></tr>
-<tr><td><code>res/values-mk</code></td></td><td>Macedonian</td><td lang="mk" dir="auto">Увези</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Import</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Importeren</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Importuj</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Importar</td></tr>
-<tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Импорт</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Importovať</td></tr>
+<tr><td><code>res/values-sl</code></td></td><td>Slovenian</td><td lang="sl" dir="auto">Uvozi</td></tr>
 <tr><td><code>res/values-sq</code></td></td><td>Albanian</td><td lang="sq" dir="auto">Importo</td></tr>
+<tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Uvezi</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">Importera</td></tr>
+<tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">இறக்கு</td></tr>
 <tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">దిగుమతి చేయి</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">นำเข้า</td></tr>
-<tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">İ&ccedil;e aktar</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Імпортувати</td></tr>
+<tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Import qilish</td></tr>
 <tr><td><code>res/values-vi</code></td></td><td>Vietnamese</td><td lang="vi" dir="auto">Nhập</td></tr>
 <tr><td><code>res/values-zh-rCN</code></td></td><td>Chinese (China)</td><td lang="zh-CN" dir="auto">导入</td></tr>
-<tr><td><code>res/values-zh-rHK</code></td></td><td>Chinese (Hong Kong SAR China)</td><td lang="zh-HK" dir="auto">匯入</td></tr>
 <tr><td><code>res/values-zh-rTW</code></td></td><td>Chinese (Taiwan)</td><td lang="zh-TW" dir="auto">匯入</td></tr>
 </table></details>
 
