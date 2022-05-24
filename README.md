@@ -169,7 +169,6 @@ Can be used for:
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">ഇല്ലാതാക്കുക</td></tr>
 <tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">हटवा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Padam</td></tr>
-<tr><td><code>res/values-my</code></td></td><td>Burmese</td><td lang="my" dir="auto">ဖျက်ရန်</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Slett</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">मेटाउनुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Verwijderen</td></tr>
@@ -491,7 +490,6 @@ Can be used for:
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">സംരക്ഷിക്കുക</td></tr>
 <tr><td><code>res/values-mr</code></td></td><td>Marathi</td><td lang="mr" dir="auto">सुरक्षित करा</td></tr>
 <tr><td><code>res/values-ms</code></td></td><td>Malay</td><td lang="ms" dir="auto">Simpan</td></tr>
-<tr><td><code>res/values-my</code></td></td><td>Burmese</td><td lang="my" dir="auto">သိမ်းရန်</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Lagre</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">बचत गर्नुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Opslaan</td></tr>
