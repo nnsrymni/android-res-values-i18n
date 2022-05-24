@@ -485,7 +485,6 @@ Can be used for:
 <tr><td><code>res/values-km</code></td></td><td>Khmer</td><td lang="km" dir="auto">រក្សាទុក</td></tr>
 <tr><td><code>res/values-kn</code></td></td><td>Kannada</td><td lang="kn" dir="auto">ಉಳಿಸಿ</td></tr>
 <tr><td><code>res/values-ko</code></td></td><td>Korean</td><td lang="ko" dir="auto">저장</td></tr>
-<tr><td><code>res/values-ky</code></td></td><td>Kyrgyz</td><td lang="ky" dir="auto">Сактоо</td></tr>
 <tr><td><code>res/values-lo</code></td></td><td>Lao</td><td lang="lo" dir="auto">ບັນທຶກ</td></tr>
 <tr><td><code>res/values-lt</code></td></td><td>Lithuanian</td><td lang="lt" dir="auto">Įra&scaron;yti</td></tr>
 <tr><td><code>res/values-lv</code></td></td><td>Latvian</td><td lang="lv" dir="auto">Saglabāt</td></tr>
