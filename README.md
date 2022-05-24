@@ -51,6 +51,21 @@ dependencies {
 
 ## Quick Reference
 
+<ul>
+<li><a href="#stringny_i18n_action_calendar"        >@string/ny_i18n_action_calendar</a></li>
+<li><a href="#stringny_i18n_action_delete"          >@string/ny_i18n_action_delete</a></li>
+<li><a href="#stringny_i18n_action_edit"            >@string/ny_i18n_action_edit</a></li>
+<li><a href="#stringny_i18n_action_export"          >@string/ny_i18n_action_export</a></li>
+<li><a href="#stringny_i18n_action_import"          >@string/ny_i18n_action_import</a></li>
+<li><a href="#stringny_i18n_action_next"            >@string/ny_i18n_action_next</a></li>
+<li><a href="#stringny_i18n_action_save"            >@string/ny_i18n_action_save</a></li>
+<li><a href="#stringny_i18n_action_select_all"      >@string/ny_i18n_action_select_all</a></li>
+<li><a href="#stringny_i18n_action_settings"        >@string/ny_i18n_action_settings</a></li>
+<li><a href="#stringny_i18n_action_today"           >@string/ny_i18n_action_today</a></li>
+</ul>
+
+---
+
 ### `@string/ny_i18n_action_calendar`
 
 Can be used for:
