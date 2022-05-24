@@ -5,6 +5,7 @@
     <string name="ny_i18n_action_edit">Düzenle</string>
     <string name="ny_i18n_action_next">İleri</string>
     <string name="ny_i18n_action_save">Kaydet</string>
+    <string name="ny_i18n_action_select_all">Tümünü seç</string>
     <string name="ny_i18n_action_settings">Ayarlar</string>
     <string name="ny_i18n_action_today">Bugün</string>
 </resources>

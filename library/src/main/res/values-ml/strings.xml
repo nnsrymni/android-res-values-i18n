@@ -4,6 +4,7 @@
     <string name="ny_i18n_action_delete">ഇല്ലാതാക്കുക</string>
     <string name="ny_i18n_action_next">അടുത്തത്</string>
     <string name="ny_i18n_action_save">സംരക്ഷിക്കുക</string>
+    <string name="ny_i18n_action_select_all">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
     <string name="ny_i18n_action_settings">ക്രമീകരണം</string>
     <string name="ny_i18n_action_today">ഇന്ന്</string>
 </resources>

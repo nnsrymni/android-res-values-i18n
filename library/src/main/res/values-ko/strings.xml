@@ -5,6 +5,7 @@
     <string name="ny_i18n_action_import">가져오기</string>
     <string name="ny_i18n_action_next">다음</string>
     <string name="ny_i18n_action_save">저장</string>
+    <string name="ny_i18n_action_select_all">모두 선택</string>
     <string name="ny_i18n_action_settings">설정</string>
     <string name="ny_i18n_action_today">오늘</string>
 </resources>

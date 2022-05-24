@@ -6,6 +6,7 @@
     <string name="ny_i18n_action_export">Vie</string>
     <string name="ny_i18n_action_next">Seuraava</string>
     <string name="ny_i18n_action_save">Tallenna</string>
+    <string name="ny_i18n_action_select_all">Valitse kaikki</string>
     <string name="ny_i18n_action_settings">Asetukset</string>
     <string name="ny_i18n_action_today">Tänään</string>
 </resources>

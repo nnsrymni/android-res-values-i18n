@@ -5,5 +5,6 @@
     <string name="ny_i18n_action_edit">አርትዕ</string>
     <string name="ny_i18n_action_next">ቀጣይ</string>
     <string name="ny_i18n_action_save">አስቀምጥ</string>
+    <string name="ny_i18n_action_select_all">ሁሉንም ምረጥ</string>
     <string name="ny_i18n_action_today">ዛሬ</string>
 </resources>

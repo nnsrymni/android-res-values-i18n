@@ -6,6 +6,7 @@
     <string name="ny_i18n_action_import">Flytja inn</string>
     <string name="ny_i18n_action_next">Áfram</string>
     <string name="ny_i18n_action_save">Vista</string>
+    <string name="ny_i18n_action_select_all">Velja allt</string>
     <string name="ny_i18n_action_settings">Stillingar</string>
     <string name="ny_i18n_action_today">Í dag</string>
 </resources>

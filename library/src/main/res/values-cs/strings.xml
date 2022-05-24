@@ -5,6 +5,7 @@
     <string name="ny_i18n_action_export">Exportovat</string>
     <string name="ny_i18n_action_next">Další</string>
     <string name="ny_i18n_action_save">Uložit</string>
+    <string name="ny_i18n_action_select_all">Vybrat vše</string>
     <string name="ny_i18n_action_settings">Nastavení</string>
     <string name="ny_i18n_action_today">Dnes</string>
 </resources>

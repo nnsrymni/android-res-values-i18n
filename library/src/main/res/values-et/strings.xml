@@ -4,5 +4,6 @@
     <string name="ny_i18n_action_delete">Kustuta</string>
     <string name="ny_i18n_action_next">Järgmine</string>
     <string name="ny_i18n_action_save">Salvesta</string>
+    <string name="ny_i18n_action_select_all">Vali kõik</string>
     <string name="ny_i18n_action_today">Täna</string>
 </resources>

@@ -5,5 +5,6 @@
     <string name="ny_i18n_action_import">Import</string>
     <string name="ny_i18n_action_next">Seterusnya</string>
     <string name="ny_i18n_action_save">Simpan</string>
+    <string name="ny_i18n_action_select_all">Pilih semua</string>
     <string name="ny_i18n_action_today">Hari ini</string>
 </resources>

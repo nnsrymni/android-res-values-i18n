@@ -5,6 +5,7 @@
     <string name="ny_i18n_action_export">Exportar</string>
     <string name="ny_i18n_action_import">Importar</string>
     <string name="ny_i18n_action_save">Salvar</string>
+    <string name="ny_i18n_action_select_all">Selecionar tudo</string>
     <string name="ny_i18n_action_settings">Configurações</string>
     <string name="ny_i18n_action_today">Hoje</string>
 </resources>

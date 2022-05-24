@@ -7,5 +7,6 @@
     <string name="ny_i18n_action_import">Importar</string>
     <string name="ny_i18n_action_next">Siguiente</string>
     <string name="ny_i18n_action_save">Guardar</string>
+    <string name="ny_i18n_action_select_all">Seleccionar todo</string>
     <string name="ny_i18n_action_today">Hoy</string>
 </resources>
