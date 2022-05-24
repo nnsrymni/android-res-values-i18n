@@ -137,7 +137,6 @@ Can be used for:
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Izbri&scaron;i</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Suprimeix</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Odstranit</td></tr>
-<tr><td><code>res/values-cy</code></td></td><td>Welsh</td><td lang="cy" dir="auto">Dileu</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Slet</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">L&ouml;schen</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Delta;&iota;&alpha;&gamma;&rho;&alpha;&phi;ή</td></tr>
@@ -229,7 +228,6 @@ Can be used for:
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সম্পাদনা করুন</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Edita</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Upravit</td></tr>
-<tr><td><code>res/values-cy</code></td></td><td>Welsh</td><td lang="cy" dir="auto">Golygu</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Rediger</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Bearbeiten</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alpha;&sigma;ί&alpha;</td></tr>
@@ -468,7 +466,6 @@ Can be used for:
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Sačuvaj</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Desa</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Uložit</td></tr>
-<tr><td><code>res/values-cy</code></td></td><td>Welsh</td><td lang="cy" dir="auto">Cadw</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Gem</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Speichern</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Alpha;&pi;&omicron;&theta;ή&kappa;&epsilon;&upsilon;&sigma;&eta;</td></tr>
@@ -564,7 +561,6 @@ Can be used for:
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Postavke</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Configuraci&oacute;</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Nastaven&iacute;</td></tr>
-<tr><td><code>res/values-cy</code></td></td><td>Welsh</td><td lang="cy" dir="auto">Gosodiadau</td></tr>
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Indstillinger</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Einstellungen</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Rho;&upsilon;&theta;&mu;ί&sigma;&epsilon;&iota;&sigmaf;</td></tr>
