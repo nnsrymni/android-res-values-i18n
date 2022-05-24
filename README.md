@@ -145,7 +145,6 @@ Can be used for:
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Ezabatu</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">حذف</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Poista</td></tr>
-<tr><td><code>res/values-fil</code></td></td><td>Filipino</td><td lang="fil" dir="auto">Tanggalin</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Supprimer</td></tr>
 <tr><td><code>res/values-ga</code></td></td><td>Irish</td><td lang="ga" dir="auto">Scrios</td></tr>
 <tr><td><code>res/values-gd</code></td></td><td>Scottish Gaelic</td><td lang="gd" dir="auto">Sguab &agrave;s</td></tr>
@@ -234,7 +233,6 @@ Can be used for:
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Editatu</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">ویرایش</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Muokkaa</td></tr>
-<tr><td><code>res/values-fil</code></td></td><td>Filipino</td><td lang="fil" dir="auto">I-edit</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Modifier</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Editar</td></tr>
 <tr><td><code>res/values-hu</code></td></td><td>Hungarian</td><td lang="hu" dir="auto">Szerkeszt&eacute;s</td></tr>
@@ -473,7 +471,6 @@ Can be used for:
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Gorde</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">ذخیره</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Tallenna</td></tr>
-<tr><td><code>res/values-fil</code></td></td><td>Filipino</td><td lang="fil" dir="auto">I-save</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Enregistrer</td></tr>
 <tr><td><code>res/values-ga</code></td></td><td>Irish</td><td lang="ga" dir="auto">S&aacute;bh&aacute;il</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Gardar</td></tr>
@@ -568,7 +565,6 @@ Can be used for:
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Ezarpenak</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">تنظیمات</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">Asetukset</td></tr>
-<tr><td><code>res/values-fil</code></td></td><td>Filipino</td><td lang="fil" dir="auto">Mga Setting</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Param&egrave;tres</td></tr>
 <tr><td><code>res/values-ga</code></td></td><td>Irish</td><td lang="ga" dir="auto">Socruithe</td></tr>
 <tr><td><code>res/values-gd</code></td></td><td>Scottish Gaelic</td><td lang="gd" dir="auto">Roghainnean</td></tr>
@@ -646,7 +642,6 @@ Can be used for:
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Gaur</td></tr>
 <tr><td><code>res/values-fa</code></td></td><td>Persian</td><td lang="fa" dir="auto">امروز</td></tr>
 <tr><td><code>res/values-fi</code></td></td><td>Finnish</td><td lang="fi" dir="auto">T&auml;n&auml;&auml;n</td></tr>
-<tr><td><code>res/values-fil</code></td></td><td>Filipino</td><td lang="fil" dir="auto">Ngayong araw</td></tr>
 <tr><td><code>res/values-fr</code></td></td><td>French</td><td lang="fr" dir="auto">Aujourd'hui</td></tr>
 <tr><td><code>res/values-gl</code></td></td><td>Galician</td><td lang="gl" dir="auto">Hoxe</td></tr>
 <tr><td><code>res/values-gu</code></td></td><td>Gujarati</td><td lang="gu" dir="auto">આજે</td></tr>
