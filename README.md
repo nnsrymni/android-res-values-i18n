@@ -597,9 +597,7 @@ Can be used for:
 <tr><td><code>res/values-b+sr+Latn</code></td></td><td>Serbian (Latin)</td><td lang="sr-Latn" dir="auto">Danas</td></tr>
 <tr><td><code>res/values-sv</code></td></td><td>Swedish</td><td lang="sv" dir="auto">I dag</td></tr>
 <tr><td><code>res/values-ta</code></td></td><td>Tamil</td><td lang="ta" dir="auto">இன்று</td></tr>
-<tr><td><code>res/values-te</code></td></td><td>Telugu</td><td lang="te" dir="auto">ఈ రోజు</td></tr>
 <tr><td><code>res/values-th</code></td></td><td>Thai</td><td lang="th" dir="auto">วันนี้</td></tr>
-<tr><td><code>res/values-tl</code></td></td><td>Tagalog</td><td lang="tl" dir="auto">Ngayong araw</td></tr>
 <tr><td><code>res/values-tr</code></td></td><td>Turkish</td><td lang="tr" dir="auto">Bug&uuml;n</td></tr>
 <tr><td><code>res/values-uk</code></td></td><td>Ukrainian</td><td lang="uk" dir="auto">Сьогодні</td></tr>
 <tr><td><code>res/values-uz</code></td></td><td>Uzbek</td><td lang="uz" dir="auto">Bugun</td></tr>
