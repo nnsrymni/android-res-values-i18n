@@ -140,7 +140,6 @@ Can be used for:
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Slet</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">L&ouml;schen</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Delta;&iota;&alpha;&gamma;&rho;&alpha;&phi;ή</td></tr>
-<tr><td><code>res/values-eo</code></td></td><td>Esperanto</td><td lang="eo" dir="auto">Forigi</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Eliminar</td></tr>
 <tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Kustuta</td></tr>
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Ezabatu</td></tr>
@@ -469,7 +468,6 @@ Can be used for:
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Gem</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Speichern</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Alpha;&pi;&omicron;&theta;ή&kappa;&epsilon;&upsilon;&sigma;&eta;</td></tr>
-<tr><td><code>res/values-eo</code></td></td><td>Esperanto</td><td lang="eo" dir="auto">Konservi</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Guardar</td></tr>
 <tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">Salvesta</td></tr>
 <tr><td><code>res/values-eu</code></td></td><td>Basque</td><td lang="eu" dir="auto">Gorde</td></tr>
@@ -564,7 +562,6 @@ Can be used for:
 <tr><td><code>res/values-da</code></td></td><td>Danish</td><td lang="da" dir="auto">Indstillinger</td></tr>
 <tr><td><code>res/values-de</code></td></td><td>German</td><td lang="de" dir="auto">Einstellungen</td></tr>
 <tr><td><code>res/values-el</code></td></td><td>Greek</td><td lang="el" dir="auto">&Rho;&upsilon;&theta;&mu;ί&sigma;&epsilon;&iota;&sigmaf;</td></tr>
-<tr><td><code>res/values-eo</code></td></td><td>Esperanto</td><td lang="eo" dir="auto">Agordoj</td></tr>
 <tr><td><code>res/values-es</code></td></td><td>Spanish</td><td lang="es" dir="auto">Ajustes</td></tr>
 <tr><td><code>res/values-es-rUS</code></td></td><td>Spanish (United States)</td><td lang="es-US" dir="auto">Configuraci&oacute;n</td></tr>
 <tr><td><code>res/values-et</code></td></td><td>Estonian</td><td lang="et" dir="auto">S&auml;tted</td></tr>
