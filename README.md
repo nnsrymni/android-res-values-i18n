@@ -561,7 +561,6 @@ Can be used for:
 <tr><td><code>res/values-be</code></td></td><td>Belarusian</td><td lang="be" dir="auto">Налады</td></tr>
 <tr><td><code>res/values-bg</code></td></td><td>Bulgarian</td><td lang="bg" dir="auto">Настройки</td></tr>
 <tr><td><code>res/values-bn</code></td></td><td>Bangla</td><td lang="bn" dir="auto">সেটিংস</td></tr>
-<tr><td><code>res/values-br</code></td></td><td>Breton</td><td lang="br" dir="auto">Arventenno&ugrave;</td></tr>
 <tr><td><code>res/values-bs</code></td></td><td>Bosnian</td><td lang="bs" dir="auto">Postavke</td></tr>
 <tr><td><code>res/values-ca</code></td></td><td>Catalan</td><td lang="ca" dir="auto">Configuraci&oacute;</td></tr>
 <tr><td><code>res/values-cs</code></td></td><td>Czech</td><td lang="cs" dir="auto">Nastaven&iacute;</td></tr>
