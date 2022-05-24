@@ -94,7 +94,6 @@ Can be used for:
 <tr><td><code>res/values-ml</code></td></td><td>Malayalam</td><td lang="ml" dir="auto">കലണ്ടർ</td></tr>
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Kalender</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">पात्रो</td></tr>
-<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">କ୍ୟାଲେଣ୍ଡର୍</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Kalendarz</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Календарь</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Kalend&aacute;r</td></tr>
@@ -163,7 +162,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Slett</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">मेटाउनुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Verwijderen</td></tr>
-<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ବିଲୋପ</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਮਿਟਾਓ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Usuń</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Excluir</td></tr>
@@ -404,7 +402,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Neste</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">अर्को</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Volgende</td></tr>
-<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ପରବର୍ତ୍ତୀ</td></tr>
 <tr><td><code>res/values-pt-rPT</code></td></td><td>Portuguese (Portugal)</td><td lang="pt-PT" dir="auto">Seguinte</td></tr>
 <tr><td><code>res/values-ru</code></td></td><td>Russian</td><td lang="ru" dir="auto">Далее</td></tr>
 <tr><td><code>res/values-sk</code></td></td><td>Slovak</td><td lang="sk" dir="auto">Ďalej</td></tr>
@@ -467,7 +464,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">Lagre</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">बचत गर्नुहोस्</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Opslaan</td></tr>
-<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ସଂରକ୍ଷଣ</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਸੁਰੱਖਿਅਤ ਕਰੋ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Zapisz</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Salvar</td></tr>
@@ -616,7 +612,6 @@ Can be used for:
 <tr><td><code>res/values-nb</code></td></td><td>Norwegian Bokmål</td><td lang="nb" dir="auto">I dag</td></tr>
 <tr><td><code>res/values-ne</code></td></td><td>Nepali</td><td lang="ne" dir="auto">आज</td></tr>
 <tr><td><code>res/values-nl</code></td></td><td>Dutch</td><td lang="nl" dir="auto">Vandaag</td></tr>
-<tr><td><code>res/values-or</code></td></td><td>Odia</td><td lang="or" dir="auto">ଆଜି</td></tr>
 <tr><td><code>res/values-pa</code></td></td><td>Punjabi</td><td lang="pa" dir="auto">ਅੱਜ</td></tr>
 <tr><td><code>res/values-pl</code></td></td><td>Polish</td><td lang="pl" dir="auto">Dzisiaj</td></tr>
 <tr><td><code>res/values-pt</code></td></td><td>Portuguese</td><td lang="pt" dir="auto">Hoje</td></tr>
